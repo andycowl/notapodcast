@@ -40,12 +40,10 @@ However, if you have anything to say; constructive, abusive or
 anything inbetween, please run, don't walk, to the '<a
 href="http://notapodcast.tumblr.com/feedback">Feedback</a>' section.
 
-Episode #1 File: <a
-href="http://archive.org/download/TINAP_AUDIO/TINAP1.ogg">TINAP1.ogg</a>
+Episode #1 File: <a href="http://archive.org/download/TINAP_AUDIO/TINAP1.ogg">TINAP1.ogg</a>
 Duration: 1h 12m 24s Size: 17.5 MB
 
-MP3:                                                                <a
-href="http://archive.org/download/TINAP_AUDIO/TINAP1.mp3">TINAP1.mp3</a>
+MP3: <a href="http://archive.org/download/TINAP_AUDIO/TINAP1.mp3">TINAP1.mp3</a>
 Size: 24.6MB
 
 This is not a podcast is <a href="http://archive.org/download/TINAP_AUDIO/TINAP1mono.ogg">not in stereo for all the mono lovers</a>.
