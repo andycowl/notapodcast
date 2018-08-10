@@ -85,37 +85,37 @@ MP3 (mono):
 
 *Running order*
 
-0:00 It's a long story...
-1:00 Press the eject button and stand well back
-1:22 Welcome to Ed Morgan
-2:49 Screaming baby alert
-4:37 They shoot deserters don't they?
-5:34 Massive truncation of everything
-6:27 The National Anthem
-8:58 Sir George Michael of Hampstead Heath
-11:08 The I Am Not Lefthanded fiasco
-13:02 Something else we said we'd never ever do
-14:00 Jon The Not So Nice Guy
-15:04 Serial killers, beards and Germans
-18:00 Disturbing feedback
-20:50 When the boat comes in
-22:50 Microsoft Skype
-24:46 Listen to The Fall
-28:08 Podcast Watch
-31:20 Celebrity Watch
-33:04 Alternative Vote
-34:38 The Royal Wedding
-37:19 This is episode 6
-38:45 Waking up with a Haiku
-40:35 Andy's 30k dents
-45:20 The Maxime Pelletier Slot
-46:15 Innovation
-48:18 Chromebook
-52:23 Unity and Gnome 3
-1:01:13 Internet dating
-1:03:28 RIP Seve and 'Enery
-1:05:23 Football roundup
-1:06:26 Fog On The Tyne
+0:00 It's a long story...  
+1:00 Press the eject button and stand well back  
+1:22 Welcome to Ed Morgan  
+2:49 Screaming baby alert  
+4:37 They shoot deserters don't they?  
+5:34 Massive truncation of everything  
+6:27 The National Anthem  
+8:58 Sir George Michael of Hampstead Heath  
+11:08 The I Am Not Lefthanded fiasco  
+13:02 Something else we said we'd never ever do  
+14:00 Jon The Not So Nice Guy  
+15:04 Serial killers, beards and Germans  
+18:00 Disturbing feedback  
+20:50 When the boat comes in  
+22:50 Microsoft Skype  
+24:46 Listen to The Fall  
+28:08 Podcast Watch  
+31:20 Celebrity Watch  
+33:04 Alternative Vote  
+34:38 The Royal Wedding  
+37:19 This is episode 6  
+38:45 Waking up with a Haiku  
+40:35 Andy's 30k dents  
+45:20 The Maxime Pelletier Slot  
+46:15 Innovation  
+48:18 Chromebook  
+52:23 Unity and Gnome 3  
+1:01:13 Internet dating  
+1:03:28 RIP Seve and 'Enery  
+1:05:23 Football roundup  
+1:06:26 Fog On The Tyne  
 
 *Further Reading*
 
