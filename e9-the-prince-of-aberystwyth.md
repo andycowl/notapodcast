@@ -102,43 +102,43 @@ Ogg (stereo): [stereo][stereo] (38.5 MB)
 
 ### Running Order
 
-0:00 Are we recording ?
-1:40 I'VE BEEN WAITING FOR THIS MOMENT FOR ALL MY LIFE
-4:00 It's The Pump Dot IO Song!
-8:38 Beep beep
-9:33 Federation / It means nothing to me
-14:23 Motivation, inspiration
-18:20 The last resort
-19:58 OFG! Heavy breathing
-21:45 Change, masochism
-23:58 Love, hate, fragmentation, money
-31:47 The future for Status.Net
-34:59 Pump.io business model / Headless social server
-38:45 Butt plugs / Pi pumps / Ouya Hoohah!
-42:00 PaaS support / OpenShift etc.
-45:25 Family federations
-48:58 Developer community
-53:10 The future for IdentiCurse / Muon and PyPump
-55:30 Hit me with a hard one
-1:00:10 What's the point of migrating Identi.ca ?
-1:04:10 Our number one listener
-1:10:10 The Persians
-1:11:20 Parlez vous Francais ?
-1:13:45 The Quick-Fire Question Round
-1:16:57 Why don't my notification indicators go down to zero ?
-1:18:15 People need to get off my case and stop bothering me
-1:19:10 3rd party development / PumpMigrate / Pump2RSS
-1:20:20 Evan's dad (NSFW)
-1:22:10 The Prince of Aberystwyth
-1:25:30 This whole thing is kind of ridiculous !
-1:28:30 Do you guys want me to get off ?
-1:29:10 The death of Google Reader / the NSA / Encrypted email
-1:34:47 Murder in Leith / Torturing children with rhubarb
-1:36:20 The Curse of TINAP
-1:38:00 The pineapple didn't take off
-1:39:32 Sports Section / TDF / Drugs
-1:42:00 Music Section / The Stone Roses gig / Open mic nights / 20lb Sounds / Glastonbury / The National
-1:47:25 Podcast Watch / TINT / The Duffercast
-1:52:06 TV Round-up / The Call Centre
-1:53:58 Andy's Rants / split scarves / split rounds / pint drinkers / transfer talk / TZAG
-1:58:09 Outtakes
+0:00 Are we recording ?  
+1:40 I'VE BEEN WAITING FOR THIS MOMENT FOR ALL MY LIFE  
+4:00 It's The Pump Dot IO Song!  
+8:38 Beep beep  
+9:33 Federation / It means nothing to me  
+14:23 Motivation, inspiration  
+18:20 The last resort  
+19:58 OFG! Heavy breathing  
+21:45 Change, masochism  
+23:58 Love, hate, fragmentation, money  
+31:47 The future for Status.Net  
+34:59 Pump.io business model / Headless social server  
+38:45 Butt plugs / Pi pumps / Ouya Hoohah!  
+42:00 PaaS support / OpenShift etc.  
+45:25 Family federations  
+48:58 Developer community  
+53:10 The future for IdentiCurse / Muon and PyPump  
+55:30 Hit me with a hard one  
+1:00:10 What's the point of migrating Identi.ca ?  
+1:04:10 Our number one listener  
+1:10:10 The Persians  
+1:11:20 Parlez vous Francais ?  
+1:13:45 The Quick-Fire Question Round  
+1:16:57 Why don't my notification indicators go down to zero ?  
+1:18:15 People need to get off my case and stop bothering me  
+1:19:10 3rd party development / PumpMigrate / Pump2RSS  
+1:20:20 Evan's dad (NSFW)  
+1:22:10 The Prince of Aberystwyth  
+1:25:30 This whole thing is kind of ridiculous !  
+1:28:30 Do you guys want me to get off ?  
+1:29:10 The death of Google Reader / the NSA / Encrypted email  
+1:34:47 Murder in Leith / Torturing children with rhubarb  
+1:36:20 The Curse of TINAP  
+1:38:00 The pineapple didn't take off  
+1:39:32 Sports Section / TDF / Drugs  
+1:42:00 Music Section / The Stone Roses gig / Open mic nights / 20lb Sounds / Glastonbury / The National  
+1:47:25 Podcast Watch / TINT / The Duffercast  
+1:52:06 TV Round-up / The Call Centre  
+1:53:58 Andy's Rants / split scarves / split rounds / pint drinkers / transfer talk / TZAG  
+1:58:09 Outtakes  
