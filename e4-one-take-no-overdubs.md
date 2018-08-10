@@ -66,41 +66,41 @@ MP3 (mono): [TINAP4.mp3](http://archive.org/download/TINAP_AUDIO/TINAP4.mp3) (24
 
 *Running order*
 
-0:00 A message from our sponsors
-0:40 Ready to Mumble
-1:17 Andy's impressions
-2:39 Why we use Mumble
-3:39 Luke's GSoC #fail
-4:44 Our Mumble set up
-5:50 Getting started with Mumble
-7:03 Mumble features
-7:54 Top secret guest list
-8:28 Live feedback
-9:40 How did I miss this?
-11:16 My work here is done
-12:50 Monetising TINAP
-13:50 Megapayments &gt; Flattr
-20:27 Oracle and OpenOffice.org
-23:32 Status Net clients for Android
-26:07 IdentiCurse for Android 'not really very useful'
-26:50 Identi.ca killed my blog
-33:45 Cold turkey, addiction and suicide
-36:20 The elephant in the room
-40:56 Sawtel podcast
-43:36 Libre.fm podcast
-44:27 Rathole Radio Live
-45:43 The Place That Won't Take Me Back by I Am Not Lefthanded
-51:01 Rowche Mumble
-53:16 Denticator all time world wankings
-54:24 The Fall's Rowche Rumble
-56:10 Welsh sports roundup
-56:33 Girls in leotards / Olympic tickets update
-1:00:26 Tick tock
-1:02:13 Footballing Twitters
-1:03:56 Imploding Arsenal
-1:07:12 'United' TV drama
-1:09:55 The Royal Wedding
-1:10:49 Outtakes
+0:00 A message from our sponsors  
+0:40 Ready to Mumble  
+1:17 Andy's impressions  
+2:39 Why we use Mumble  
+3:39 Luke's GSoC #fail  
+4:44 Our Mumble set up  
+5:50 Getting started with Mumble  
+7:03 Mumble features  
+7:54 Top secret guest list  
+8:28 Live feedback  
+9:40 How did I miss this?  
+11:16 My work here is done  
+12:50 Monetising TINAP  
+13:50 Megapayments &gt; Flattr  
+20:27 Oracle and OpenOffice.org  
+23:32 Status Net clients for Android  
+26:07 IdentiCurse for Android 'not really very useful'  
+26:50 Identi.ca killed my blog  
+33:45 Cold turkey, addiction and suicide  
+36:20 The elephant in the room  
+40:56 Sawtel podcast  
+43:36 Libre.fm podcast  
+44:27 Rathole Radio Live  
+45:43 The Place That Won't Take Me Back by I Am Not Lefthanded  
+51:01 Rowche Mumble  
+53:16 Denticator all time world wankings  
+54:24 The Fall's Rowche Rumble  
+56:10 Welsh sports roundup  
+56:33 Girls in leotards / Olympic tickets update  
+1:00:26 Tick tock  
+1:02:13 Footballing Twitters  
+1:03:56 Imploding Arsenal  
+1:07:12 'United' TV drama  
+1:09:55 The Royal Wedding  
+1:10:49 Outtakes  
 
 *Further Reading*
 
