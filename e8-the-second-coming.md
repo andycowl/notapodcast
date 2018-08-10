@@ -71,39 +71,39 @@ Ogg (stereo): [stereo][] (31.3MB)
 
 ### Running Order
 
-0:00 Welcome to Season 2
-1:15 The Sawtell stand-off
-2:05 Screwing around with the sound system
-2:20 Luke moves to Switzerland
-3:10 Andy's wife reads the Daily Mail
-3:40 David gets down with the kids
-4:00 How's about this then?
-7:00 Gardeners' Question Time
-8:18 #RhubarbRhubarb
-9:30 New and interesting folk on Identi.ca
-11:45 Stav's TINAP Identi.ca poll
-13:00 How not to make a podcast
-15:26 Andy's minor health issue
-16:43 Space jump
-17:26 Google Zurich
-19:30 Virtual Andyc
-23:04 Andy's new Virgin Media router arrives
-25:06 A very curious death to solve
-25:57 How we all abandoned Habari
-27:06 Deep psychological analysis
-28:48 It's just a head fuck
-30:58 Cuckoo clocks, cowbells and Swiss maids
-31:49 Zurich to Aberystwyth via Wolverhampton
-40:38 @Marjoleink yak shaving
-41:37 Solus OS
-43:08 Goobuntu
-44:50 Feedback
-46:18 Name and shame
-49:33 Amazuntu
-52:15 Being: Liverpool - the bizarre world of Brendan Rodgers
-56:00 #WHATABUNCHOFTWATS
-57:24 Luke live microblogs the football
-58:34 Outtakes
+0:00 Welcome to Season 2  
+1:15 The Sawtell stand-off  
+2:05 Screwing around with the sound system  
+2:20 Luke moves to Switzerland  
+3:10 Andy's wife reads the Daily Mail  
+3:40 David gets down with the kids  
+4:00 How's about this then?  
+7:00 Gardeners' Question Time  
+8:18 #RhubarbRhubarb  
+9:30 New and interesting folk on Identi.ca  
+11:45 Stav's TINAP Identi.ca poll  
+13:00 How not to make a podcast  
+15:26 Andy's minor health issue  
+16:43 Space jump  
+17:26 Google Zurich  
+19:30 Virtual Andyc  
+23:04 Andy's new Virgin Media router arrives  
+25:06 A very curious death to solve  
+25:57 How we all abandoned Habari  
+27:06 Deep psychological analysis  
+28:48 It's just a head fuck  
+30:58 Cuckoo clocks, cowbells and Swiss maids  
+31:49 Zurich to Aberystwyth via Wolverhampton  
+40:38 @Marjoleink yak shaving  
+41:37 Solus OS  
+43:08 Goobuntu  
+44:50 Feedback  
+46:18 Name and shame  
+49:33 Amazuntu  
+52:15 Being: Liverpool - the bizarre world of Brendan Rodgers  
+56:00 #WHATABUNCHOFTWATS  
+57:24 Luke live microblogs the football  
+58:34 Outtakes  
 
 ### Sport
 
