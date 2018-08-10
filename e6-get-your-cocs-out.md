@@ -127,60 +127,60 @@ MP3 (mono): [TINAP6.mp3](http://archive.org/download/TINAP_AUDIO/TINAP6.mp3) (33
 
 *Running order*
 
-00:46 Dick Turpin's is 19 inches long
-01:11 In praise of The Dick Turpin Roadshow
-01:25 Shall we try and do this better ?
-03:00 The bells, the bells !
-05:58 Finger Lickin' good !
-06:34 Coca Cola Light considered harmful
-08:15 Sponsored by 'So near, so Spar'
-09:09 Plucking is extra
-11:04 Self calibration
-12:26 Calls for abuse via audio
-13:30 CoC !
-14:41 We do what we want
-16:24 Just kill me
-17:00 Richard Cutts is a tightly coiled spring
-18:21 Free love
-18:44 CoC assignment for all guests
-21:58 XMPP's broken. Again
-22:12 What would David do ?
-22:50 Crush with byliner
-26:44 1 million StatusNet instances ?
-30:37 Corporate bullshit
-33:04 Whistle right, left wheel
-36:43 Zoom on that
-39:00 Room x11r5
-44:37 Prolonged, ear splitting, loud feedback
-46:32 Farmyard noises most welcome
-46:55 Dictaphone at Morrisons
-50:15 My other laptop is a data centre
-52:42 Then I saw the light, embraced freedom and grew a beard
-55:22 I often hit the hotspot
-58:00 Linux Outlaws - best Linux podcast !
-58:30 Jousting on horses at OggCamp
-60:48 John Peel under the covers
-61:00 Grits for tea, Ma'am
-62:00 Portuguese sirens
-62:28 See you in court
-64:18 I'm a Communist
-66:44 Camden's full of tossers
-68:33 Humping the lift counterweight
-71:17 Just an old folk band
-72:11 Morrissey is murder
-74:00 Coldplay rant
-75:11 U2 turn Yellow
-78:12 Music: I Am Not Left Handed - 'Alone (It's not so bad)'
-82:54 Gonna be a rock journalist
-83:23 Commuter rant
-83:50 Buy some bloody shoes
-84:04 Impatience on the iPad
-85:01 Walk fast in a straight line !
-86:23 Luke loses at Waterloo
-89:07 Olympics tickets verdict
-89:43 Super Sloppy Seconds
-93:18 Suck on my strawberry
-95:12 Emotional farewells
+00:46 Dick Turpin's is 19 inches long  
+01:11 In praise of The Dick Turpin Roadshow  
+01:25 Shall we try and do this better ?  
+03:00 The bells, the bells !  
+05:58 Finger Lickin' good !  
+06:34 Coca Cola Light considered harmful  
+08:15 Sponsored by 'So near, so Spar'  
+09:09 Plucking is extra  
+11:04 Self calibration  
+12:26 Calls for abuse via audio  
+13:30 CoC !  
+14:41 We do what we want  
+16:24 Just kill me  
+17:00 Richard Cutts is a tightly coiled spring  
+18:21 Free love  
+18:44 CoC assignment for all guests  
+21:58 XMPP's broken. Again  
+22:12 What would David do ?  
+22:50 Crush with byliner  
+26:44 1 million StatusNet instances ?  
+30:37 Corporate bullshit  
+33:04 Whistle right, left wheel  
+36:43 Zoom on that  
+39:00 Room x11r5  
+44:37 Prolonged, ear splitting, loud feedback  
+46:32 Farmyard noises most welcome  
+46:55 Dictaphone at Morrisons  
+50:15 My other laptop is a data centre  
+52:42 Then I saw the light, embraced freedom and grew a beard  
+55:22 I often hit the hotspot  
+58:00 Linux Outlaws - best Linux podcast !  
+58:30 Jousting on horses at OggCamp  
+60:48 John Peel under the covers  
+61:00 Grits for tea, Ma'am  
+62:00 Portuguese sirens  
+62:28 See you in court  
+64:18 I'm a Communist  
+66:44 Camden's full of tossers  
+68:33 Humping the lift counterweight  
+71:17 Just an old folk band  
+72:11 Morrissey is murder  
+74:00 Coldplay rant  
+75:11 U2 turn Yellow  
+78:12 Music: I Am Not Left Handed - 'Alone (It's not so bad)'  
+82:54 Gonna be a rock journalist  
+83:23 Commuter rant  
+83:50 Buy some bloody shoes  
+84:04 Impatience on the iPad  
+85:01 Walk fast in a straight line !  
+86:23 Luke loses at Waterloo  
+89:07 Olympics tickets verdict  
+89:43 Super Sloppy Seconds  
+93:18 Suck on my strawberry  
+95:12 Emotional farewells  
 
 *Further Reading*
 
