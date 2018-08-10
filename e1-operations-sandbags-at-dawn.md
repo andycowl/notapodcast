@@ -48,66 +48,66 @@ Size: 24.6MB
 
 This is not a podcast is <a href="http://archive.org/download/TINAP_AUDIO/TINAP1mono.ogg">not in stereo for all the mono lovers</a>.
 
-00:00 Intro
-00:25 Protesting about not being able to protest
-01:10 I am probably angry about something
-2:17 The Hound of the Baskervilles
-04:32 Good moaning Vietnam
-05:10 I’m about to carry a bag of sand
-06:00 Blinking morse code
-06:40 This is not a podcast
-07:20 Operation Sandbags At Dawn
-07:28 Another Freedom do - Flaming Fab
-08:07 Endorsing OggComp and Oracle’s commitment to Freedom
-09:25 I believe I was inebriated at the time
-10:35 &lt;Skype endorsement&gt;
-11:57 Ruby dicks
-12:19 Holy nuclear war
-13:43 &lt;Skype enforcement&gt;
-14:46 Ruby dickheads
-15:12 You’re still angry - you’re just worse at it
-15:32 RMS
-17:10 Twitter migration
-18:58 Spam
-20:18 !Twitterfree
-22:25 Scores on the Doors
-24:28 Time travel
-25:50 Fire drill
-26:08 Where were we?
-27:30 #whyidenticarocks
-28:57 The new Identica
-30:25 StatusNet 1.0 - fork it!
-33:53 API - in Evan we trust
-35:07 #s Hashtags
-35:52 #disturbing
-36:54 Popey and Fab have agreed about something
-37:23 That is all
-37:59 Someone’s gone off to the east!
-39:20 Room service
-40:22 And suddenly, it’s 4am three weeks later
-41:44 #Whinecraft
-44:17 Mr &amp; Mrs
-45:09 Fuck the system
-48:42 We just need another flame war
-49:17 And then these fucking horrendous bras arrived
-50:33 Lock up your daughters
-51:20 Learning how to use Unix systems
-52:40 Can anyone remember what I just said?
-54:17 For God’s sake, talk to people!
-56:05 The British Broadcasting Cunts
-58:20 Aberystwyth riots
-59:25 Pissed off with the police
-1:00:02 Cambridge riots
-1:00:50 London riots
-1:01:44 &lt;Endorsing acupuncture&gt;
-1:02:01 Benefit scrounging scum
-1:03:36 I will get it up at some point
-1:04:21 Welfare to work
-1:05:44 #BigSociety
-1:07:14 The Wolfman of Alberquerque
-1:08:00 On the way out with Mario Bibotelli
-1:10:56 I was not fazed in the slightest
-1:11:41 Outtakes
+00:00 Intro  
+00:25 Protesting about not being able to protest  
+01:10 I am probably angry about something  
+2:17 The Hound of the Baskervilles  
+04:32 Good moaning Vietnam  
+05:10 I’m about to carry a bag of sand  
+06:00 Blinking morse code  
+06:40 This is not a podcast  
+07:20 Operation Sandbags At Dawn  
+07:28 Another Freedom do - Flaming Fab  
+08:07 Endorsing OggComp and Oracle’s commitment to Freedom  
+09:25 I believe I was inebriated at the time  
+10:35 &lt;Skype endorsement&gt;  
+11:57 Ruby dicks  
+12:19 Holy nuclear war  
+13:43 &lt;Skype enforcement&gt;  
+14:46 Ruby dickheads  
+15:12 You’re still angry - you’re just worse at it  
+15:32 RMS  
+17:10 Twitter migration  
+18:58 Spam  
+20:18 !Twitterfree  
+22:25 Scores on the Doors  
+24:28 Time travel  
+25:50 Fire drill  
+26:08 Where were we?  
+27:30 #whyidenticarocks  
+28:57 The new Identica  
+30:25 StatusNet 1.0 - fork it!  
+33:53 API - in Evan we trust  
+35:07 #s Hashtags  
+35:52 #disturbing  
+36:54 Popey and Fab have agreed about something  
+37:23 That is all  
+37:59 Someone’s gone off to the east!  
+39:20 Room service  
+40:22 And suddenly, it’s 4am three weeks later  
+41:44 #Whinecraft  
+44:17 Mr &amp; Mrs  
+45:09 Fuck the system  
+48:42 We just need another flame war  
+49:17 And then these fucking horrendous bras arrived  
+50:33 Lock up your daughters  
+51:20 Learning how to use Unix systems  
+52:40 Can anyone remember what I just said?  
+54:17 For God’s sake, talk to people!  
+56:05 The British Broadcasting Cunts  
+58:20 Aberystwyth riots  
+59:25 Pissed off with the police  
+1:00:02 Cambridge riots  
+1:00:50 London riots  
+1:01:44 &lt;Endorsing acupuncture&gt;  
+1:02:01 Benefit scrounging scum  
+1:03:36 I will get it up at some point  
+1:04:21 Welfare to work  
+1:05:44 #BigSociety  
+1:07:14 The Wolfman of Alberquerque  
+1:08:00 On the way out with Mario Bibotelli  
+1:10:56 I was not fazed in the slightest  
+1:11:41 Outtakes  
 
 <em>Further reading</em>
 
